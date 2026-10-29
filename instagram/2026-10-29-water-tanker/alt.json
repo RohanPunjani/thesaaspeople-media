@@ -1,0 +1,9 @@
+[
+ "Slide 1 of 7. Headline: Did the tanker actually reach the ward? Subline: A simple question nobody could answer. A water tanker at a refill point, a dotted route, and a ward pin with a question mark.",
+ "Slide 2 of 7. Before: bills were paid on what the contractor reported. A ledger where every trip is marked reported, the proof column is empty, and the bill is stamped paid.",
+ "Slide 3 of 7. Now: every dispatch and refill is logged. A timeline of dispatch and refill events, each ticked as logged.",
+ "Slide 4 of 7. Every ward-level delivery is GPS-confirmed. A map grid with a tanker route ending inside a ward boundary, marked GPS-confirmed.",
+ "Slide 5 of 7. Bills reconcile against confirmed deliveries. No confirmed trip, no payment. A table of billed trips against GPS deliveries: two match and are paid, one has no confirmed delivery and is not paid.",
+ "Slide 6 of 7. Diversion gets flagged on its own, before anyone has to complain. A planned route in blue and an actual route that leaves it, marked off route and flagged.",
+ "Slide 7 of 7. TheSaaSPeople, Jamnagar. We build the systems cities and factories run on. A line with three steps: track the unit, verify the movement, reconcile the claim. thesaaspeople.com"
+]
